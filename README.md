@@ -25,9 +25,4 @@ the map with annotations that includes the name of the place
 Also, you should be able to add and delete cities in your App.
 
 Requirements:
-  a) You need to follow the design/implementation structure similar to the fruit table
-  MVC example (no sections are needed) that we have discussed in the class and
-  posted under Week #6. No need to have CoreData for this lab. You can store
-  places and name of images of the cities in a suitable data structures in the model.
-  You are free to select suitable data structures, objects while designing the model
-  b) Your design and implementation should follow the MVC architecture.
+ Your design and implementation should follow the MVC architecture.
